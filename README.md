@@ -1,2 +1,2 @@
-# V5_OneToOneandSecondaryTables_jpaYtube
-practice one to one relation
+# V6_OneToManyAndManyToOne_jpaYtube
+practice one to Many relation
